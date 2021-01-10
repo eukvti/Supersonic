@@ -23,3 +23,4 @@ for i in np.linspace(np.deg2rad(WedgeAcisi),np.deg2rad(60),num=9000000):
         break
 Bhetaacisi = np.rad2deg(Bheta)
 print("Şok Açınız:", Bhetaacisi , "Şokun Arkasındaki Mach sayısı :", M2  )
+
